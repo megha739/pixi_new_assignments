@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@pixi/sound": "^5.0.0",
+    "gsap": "^3.11.4",
+    "pixi-particles": "^4.3.1",
+    "pixi-spine": "^3.1.0",
+    "pixi.js": "^7.0.5"
+  },
+  "name": "pixi_new_assignments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megha739/pixi_new_assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megha739/pixi_new_assignments/issues"
+  },
+  "homepage": "https://github.com/megha739/pixi_new_assignments#readme",
+  "description": "",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0"
+  }
+}
